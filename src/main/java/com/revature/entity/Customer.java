@@ -1,4 +1,4 @@
-package com.revature;
+package com.revature.entity;
 
 public class Customer {
 	private String name;
