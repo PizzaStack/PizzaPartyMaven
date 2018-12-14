@@ -3,6 +3,7 @@ package com.revature;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+import com.revature.entity.*;
 
 public class CustomerTest {
 	
