@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "PizzaParty",
+                "projectName": "PizzaParty",
+                "workingDirectory": "c:\\Users\\jdeje\\Desktop\\PizzaPartyMaven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "PizzaParty",
+                "projectName": "PizzaParty",
+                "workingDirectory": "c:\\Users\\jdeje\\Desktop\\PizzaPartyMaven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
